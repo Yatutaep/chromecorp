@@ -1,0 +1,19 @@
+{
+  "item.chromecorp.credchip": "Кредчип (100 CR)",
+  "item.chromecorp.medstim": "Мед-стимулятор",
+  "key.chromecorp.chrono": "Хроно-Овердрафт вкл/выкл",
+  "key.chromecorp.rocket": "Микро-Ракетница: выстрел",
+  "key.chromecorp.cycle": "Выбрать следующий имплант",
+  "key.chromecorp.toggle": "Вкл/выкл выбранный имплант",
+  "key.categories.chromecorp": "Chrome & Corp",
+  "item.chromecorp.neuroposin": "Ингалятор «Нейропозин»",
+  "key.chromecorp.deck": "Кибердека: взломать цель под прицелом",
+  "item.chromecorp.ripper_clinic": "Вызов: Сертифицированный сплайсер",
+  "item.chromecorp.ripper_shady": "Вызов: Теневой механик",
+  "entity.chromecorp.ripper": "Рипер",
+  "entity.chromecorp.black_market_dealer": "Торговец чёрного рынка",
+  "item.chromecorp.mono_katana": "Мономолекулярная Катана",
+  "item.chromecorp.tech_blade": "Энергетический Клинок",
+  "item.chromecorp.mantis_blade": "Мантис-клинки",
+  "item.chromecorp.smart_pistol": "Умный Пистолет"
+}
