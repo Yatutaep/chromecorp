@@ -14,4 +14,10 @@ jobs:
         with:
           name: chromecorp-jar
           path: build/libs/chromecorp-0.1.0.jar
+                - run: gradle build
+        working-directory: chromecorp-mod-fixed2
+      - uses: actions/upload-artifact@v4
+        with:
+          name: chromecorp-jar
+          path: chromecorp-mod-fixed2/build/libs/chromecorp-0.1.0.jar
           
